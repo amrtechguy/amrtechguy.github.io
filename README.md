@@ -1,2 +1,2 @@
 # amrtechguy.github.io
-This is my GitHub pages site. (^_^)
+This is my GitHub pages site.
